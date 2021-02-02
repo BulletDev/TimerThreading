@@ -1,0 +1,11 @@
+c:\users\glitch\documents\visual studio 2015\Projects\Comm\Comm\bin\Debug\Comm.exe.config
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\Comm.exe
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\Comm.pdb
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\Comm.xml
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.vbprojResolveAssemblyReference.cache
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.Resources.resources
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.vbproj.GenerateResource.Cache
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.exe
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.xml
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.pdb
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\Comm.Timer.resources

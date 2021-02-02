@@ -1,0 +1,11 @@
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.vbproj.GenerateResource.Cache
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\ThreadingTimer.exe.config
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\ThreadingTimer.exe
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\ThreadingTimer.pdb
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\bin\Debug\ThreadingTimer.xml
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.vbprojResolveAssemblyReference.cache
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.ThreadingTimer.resources
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.Resources.resources
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.exe
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.xml
+C:\Users\Glitch\Documents\Visual Studio 2015\Projects\Comm\Comm\obj\Debug\ThreadingTimer.pdb
